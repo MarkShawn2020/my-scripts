@@ -1,0 +1,4 @@
+[submodule "my-pdf-parser"]
+	path = my-pdf-parser
+	url = https://github.com/my-app-playground/my-pdf-parser
+	branch = main

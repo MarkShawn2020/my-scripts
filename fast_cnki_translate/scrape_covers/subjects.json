@@ -1,0 +1,674 @@
+[
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170101",
+    "title": "自然科学理论与方法类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170102",
+    "title": "数学类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170103",
+    "title": "非线性科学与系统科学类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170104",
+    "title": "力学类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170105",
+    "title": "物理学类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170106",
+    "title": "生物学类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170107",
+    "title": "天文学类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170108",
+    "title": "自然地理学和测绘学类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170109",
+    "title": "气象学类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170110",
+    "title": "海洋学类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170111",
+    "title": "地质学类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170112",
+    "title": "地球物理学类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170113",
+    "title": "资源科学类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170201",
+    "title": "化学类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170202",
+    "title": "无机化工类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170203",
+    "title": "有机化工类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170204",
+    "title": "燃料化工类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170205",
+    "title": "一般化学工业类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170206",
+    "title": "石油天然气工业类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170207",
+    "title": "材料科学类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170208",
+    "title": "矿业工程类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170209",
+    "title": "金属学及金属工艺类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170210",
+    "title": "冶金工业类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170211",
+    "title": "轻工业手工业类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170212",
+    "title": "一般服务业类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170213",
+    "title": "安全科学与灾害防治类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170214",
+    "title": "环境科学与资源利用类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170301",
+    "title": "工业通用技术及设备类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170302",
+    "title": "机械工业类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170304",
+    "title": "仪器仪表工业类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170305",
+    "title": "航空航天科学与工程类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170306",
+    "title": "武器工业与军事技术类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170307",
+    "title": "铁路运输类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170308",
+    "title": "公路与水路运输类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170309",
+    "title": "汽车工业类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170310",
+    "title": "船舶工业类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170311",
+    "title": "水利水电工程类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170312",
+    "title": "建筑科学与工程类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170313",
+    "title": "动力工程类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170314",
+    "title": "核科学技术类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170315",
+    "title": "新能源类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170316",
+    "title": "电力工业类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170401",
+    "title": "农业基础科学类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170402",
+    "title": "农业工程类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170403",
+    "title": "农艺学类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170404",
+    "title": "植物保护类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170405",
+    "title": "农作物类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170406",
+    "title": "园艺类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170407",
+    "title": "林业类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170408",
+    "title": "畜牧与动物医学类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170409",
+    "title": "蚕蜂与野生动物保护类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170410",
+    "title": "水产和渔业类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170501",
+    "title": "医药卫生方针政策与法律法规研究类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170502",
+    "title": "医学教育与医学边缘学科类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170503",
+    "title": "预防医学与卫生学类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170504",
+    "title": "中医学类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170505",
+    "title": "中药学类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170506",
+    "title": "中西医结合类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170507",
+    "title": "基础医学类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170508",
+    "title": "临床医学类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170509",
+    "title": "感染性疾病及传染病类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170510",
+    "title": "心血管系统疾病类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170511",
+    "title": "呼吸系统疾病类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170512",
+    "title": "消化系统疾病类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170513",
+    "title": "内分泌腺及全身性疾病类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170514",
+    "title": "外科学类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170515",
+    "title": "泌尿科学类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170516",
+    "title": "妇产科学类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170517",
+    "title": "儿科学类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170518",
+    "title": "神经病学类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170519",
+    "title": "精神病学类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170520",
+    "title": "肿瘤学类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170521",
+    "title": "眼科与耳鼻咽喉科类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170522",
+    "title": "口腔科学类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170523",
+    "title": "皮肤病与性病类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170524",
+    "title": "特种医学类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170525",
+    "title": "急救医学类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170526",
+    "title": "军事医学与卫生类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170527",
+    "title": "药学类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170528",
+    "title": "生物医学工程类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170601",
+    "title": "文艺理论类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170602",
+    "title": "世界文学类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170603",
+    "title": "中国文学类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170604",
+    "title": "中国语言文字类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170605",
+    "title": "外国语言文字类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170606",
+    "title": "音乐舞蹈类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170607",
+    "title": "戏剧电影与电视艺术类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170608",
+    "title": "美术书法雕塑与摄影类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170609",
+    "title": "地理类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170610",
+    "title": "文化类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170611",
+    "title": "史学理论类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170612",
+    "title": "世界历史类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170613",
+    "title": "中国通史类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170614",
+    "title": "中国民族与地方史志类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170615",
+    "title": "中国古代史类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170616",
+    "title": "中国近现代史类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170617",
+    "title": "考古类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170618",
+    "title": "人物传记类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170619",
+    "title": "哲学类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170620",
+    "title": "逻辑学类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170621",
+    "title": "伦理学类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170622",
+    "title": "心理学类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170623",
+    "title": "美学类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170624",
+    "title": "宗教类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170701",
+    "title": "马克思主义类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170702",
+    "title": "中国共产党类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170703",
+    "title": "政治学类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170704",
+    "title": "中国政治与国际政治类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170705",
+    "title": "思想政治教育类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170706",
+    "title": "行政学及国家行政管理类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170707",
+    "title": "政党及群众组织类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170708",
+    "title": "军事类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170709",
+    "title": "公安类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170710",
+    "title": "法理、法史类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170711",
+    "title": "宪法类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170712",
+    "title": "行政法及地方法制类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170713",
+    "title": "民商法类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170714",
+    "title": "刑法类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170715",
+    "title": "经济法类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170716",
+    "title": "诉讼法与司法制度类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170717",
+    "title": "国际法类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170801",
+    "title": "社会科学理论与方法类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170802",
+    "title": "社会学及统计学类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170803",
+    "title": "民族学类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170804",
+    "title": "人口学与计划生育类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170805",
+    "title": "人才学与劳动科学类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170806",
+    "title": "教育理论与教育管理类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170807",
+    "title": "学前教育类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170808",
+    "title": "初等教育类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170809",
+    "title": "中等教育类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170810",
+    "title": "高等教育类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170811",
+    "title": "职业教育类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170812",
+    "title": "成人教育与特殊教育类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170813",
+    "title": "体育类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170901",
+    "title": "无线电电子学类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170902",
+    "title": "电信技术类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170903",
+    "title": "计算机硬件技术类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170904",
+    "title": "计算机软件及计算机应用类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170905",
+    "title": "互联网技术类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170906",
+    "title": "自动化技术类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170907",
+    "title": "新闻与传媒类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170908",
+    "title": "出版类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170909",
+    "title": "图书情报与数字图书馆类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F170910",
+    "title": "档案及博物馆类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F171001",
+    "title": "宏观经济管理与可持续发展类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F171002",
+    "title": "经济理论及经济思想史类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F171003",
+    "title": "经济体制改革类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F171004",
+    "title": "经济统计类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F171005",
+    "title": "农业经济类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F171006",
+    "title": "工业经济类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F171007",
+    "title": "交通运输经济类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F171008",
+    "title": "企业经济类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F171009",
+    "title": "旅游类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F171010",
+    "title": "文化经济类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F171011",
+    "title": "信息经济与邮政经济类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F171012",
+    "title": "服务业经济类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F171013",
+    "title": "贸易经济类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F171014",
+    "title": "财政与税收类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F171015",
+    "title": "金融类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F171016",
+    "title": "证券类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F171017",
+    "title": "保险类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F171018",
+    "title": "投资类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F171019",
+    "title": "会计类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F171020",
+    "title": "审计类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F171021",
+    "title": "市场研究与信息类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F171022",
+    "title": "管理学类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F171023",
+    "title": "领导学与决策学类电子杂志"
+  },
+  {
+    "url": "https://mall.cnki.net/magazine/list.aspx?cate=F171024",
+    "title": "科学研究管理类电子杂志"
+  }
+]
