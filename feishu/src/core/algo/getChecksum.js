@@ -26,14 +26,14 @@ function Ds(e) {
     e =
       "string" == typeof e
         ? (function (e) {
-            for (
-              var t = new Uint8Array(e.length), r = 0, n = e.length;
-              r < n;
-              r++
-            )
-              t[r] = 255 & e.charCodeAt(r);
-            return t;
-          })(e)
+          for (
+            var t = new Uint8Array(e.length), r = 0, n = e.length;
+            r < n;
+            r++
+          )
+            t[r] = 255 & e.charCodeAt(r);
+          return t;
+        })(e)
         : e;
     var t = new Uint32Array([1, 0, e.length, 0, 0, 65521, 5552, 0]),
       r = t[0],
@@ -43,7 +43,7 @@ function Ds(e) {
       o = t[4],
       s = t[5],
       u = t[6];
-    for (; i > 0; ) {
+    for (; i > 0;) {
       i -= o = i > u ? u : i;
       do {
         n += r += e[a++];
@@ -58,8 +58,13 @@ function getChecksumFromString(s) {
   return Ds(string2Uint8Array(s));
 }
 
+/**
+ * 编码必须是 `binary`，用中文文本测试即可明了, sample file: /Users/mark/my-learning/my-website/my-documents/my-private-documents/arpara/public/techs/android-framework/quli/compile.md
+ * @param fp
+ * @returns {*}
+ */
 function getChecksumFromFile(fp) {
-  return Ds(string2Uint8Array(fs.readFileSync(fp, { encoding: "ascii" })));
+  return getChecksumFromString(fs.readFileSync(fp, {encoding: "binary"}));
 }
 
 module.exports = {
@@ -67,7 +72,3 @@ module.exports = {
   getChecksumFromFile,
 };
 
-if (require.main === module) {
-  // expected: "134611509"
-  console.log(getChecksumFromString("# test1"));
-}

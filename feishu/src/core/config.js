@@ -17,7 +17,7 @@ const headersBase = {
 
 const headersAddDoc = {
   ...headersBase,
-  "content-type": `multipart/form-data; boundary=----WebKitFormBoundarysm259V2HSdyce8Ni`,
+  "content-type": `multipart/form-data; boundary=----WebKitFormBoundaryYI6bB8rQx1FsItMR`,
 };
 
 const headersDelDoc = {

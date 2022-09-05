@@ -1,4 +1,4 @@
-const { uploadMarkdown } = require("./core/api/doc/uploadMarkdown");
+const { addMarkdown } = require("./core/api/doc/addMarkdown");
 const {
   headersAddDoc,
   spaceInfo,
@@ -23,16 +23,18 @@ program
 program
   .command("add")
   .argument("<string>", "file path")
+  .option('-k, --fileKey <string>', "file key, i.e. file name to show in sidebar")
   .option("-t, --onlyToken", "return only wiki_token of docs")
   .action(async (fp, opts) => {
     console.log(`adding file path://${fp}`);
-    const res = await uploadMarkdown(
+    const res = await addMarkdown(
       fp,
       headersAddDoc,
-      spaceInfo.mountNodeToken
+      spaceInfo.mountNodeToken,
+      opts.fileKey
     );
     const data = res.data;
-    console.log("added:", opts.onlyToken ? data.extra.node_token : data);
+    console.log("added:", opts.onlyToken ? data.extra.node_token : res);
   });
 
 program
